@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jakegoss
 - 👀 I’m interested in Security, 3D and frontend development
 - 🌱 I’m currently learning Cyber Security
-- 💞️ I’m looking to collaborate on 3D designs
+- 💞️ I’m looking to collaborate on 3D designs and other cool frontend designs
 - 📫 How to reach me jakegoss3@gmail.com
 
 <!---
